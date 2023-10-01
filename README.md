@@ -1,6 +1,4 @@
 ## Python code snippets for quick microbial genomics analysis (bioinformatics).
-### Usage
-
 
 ## Introduction
 This repository contains three (and counting) python snippets for parsing genome annotation outputs.  
